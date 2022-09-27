@@ -1,9 +1,9 @@
 {
   "base": {
-    "project": "qa_guru_python_lesson-19",
+    "project": "qa_guru_python_lesson-20",
     "environment": "dev",
     "comment": "Build Results",
-    "reportLink": "https://jenkins.autotests.cloud/job/qa_guru_python_lesson-19/allure/",
+    "reportLink": "https://jenkins.autotests.cloud/job/qa_guru_python_lesson-20/",
     "language": "en",
     "allureFolder": "allure-report/",
     "enableChart": true

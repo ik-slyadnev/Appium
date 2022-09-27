@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "qa_guru_python_lesson-19",
+    "environment": "dev",
+    "comment": "Build Results",
+    "reportLink": "https://jenkins.autotests.cloud/job/qa_guru_python_lesson-19/allure/",
+    "language": "en",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "",
+    "chat": "",
+    "replyTo": ""
+  }
+}

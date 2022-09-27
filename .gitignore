@@ -12,7 +12,7 @@ custom.png
 
 # allure
 allure-results/
-allure-report/
+
 
 # JetBrains
 ../../.idea/
@@ -25,7 +25,7 @@ allure-report/
 geckodriver.log
 
 # allure-framework
-**/allure-report/
+
 **/allure-results/
 **/reports/
 
